@@ -1,0 +1,9 @@
+.navbar{
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-content: center;
+    align-items: center;
+    border: 5px solid black;
+}

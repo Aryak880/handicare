@@ -1,0 +1,15 @@
+.help-container{
+    background: darkolivegreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* For HelpCard */
+.helpcard{
+    background: darkorange;
+    height: 20rem;
+    width: 20rem;
+}
